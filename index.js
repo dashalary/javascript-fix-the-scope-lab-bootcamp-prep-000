@@ -36,6 +36,6 @@ var theFunk = funkyFunction() {
     return theFunk
   }
 }
-theFunk()
+funkyFunction()
 
 
